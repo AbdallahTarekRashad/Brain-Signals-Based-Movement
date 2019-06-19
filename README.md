@@ -1,1 +1,1 @@
-# Brain-Signals-Based-Movement-GP-
+# Brain Signals Based Movement
